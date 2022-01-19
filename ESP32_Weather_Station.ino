@@ -1,8 +1,4 @@
-    /////////////////////////////////////////////////////////////////
-   //         ESP32 Weather Station Project     v1.00             //
-  //       Get the latest version of the code here:              //
- //         http://educ8s.tv/esp32-weather-station              //
-/////////////////////////////////////////////////////////////////
+
 
 
 #define ARDUINOJSON_ENABLE_PROGMEM 0

@@ -9,9 +9,9 @@
 
 const char* ssid     = "yourSSID";
 const char* password = "yourPassword";
-String CityID = "253394"; //Sparta, Greece
+String CityID = "28440"; //Екатеринбург
 String APIKEY = "yourAPIkey";
-#define ALTITUDE 216.0 // Altitude in Sparta, Greece
+#define ALTITUDE 216.0 
 
 #define I2C_SDA 27
 #define I2C_SCL 26
